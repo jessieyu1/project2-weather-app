@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+    font-family: 'AlimamaFangYuanTiVF-Square';
+    src: url('./assets/fonts/AlimamaFangYuanTiVF-Thin.woff') format('woff'),
+        url('./assets/fonts/AlimamaFangYuanTiVF-Thin.woff2') format('woff2'),
+}
