@@ -1,6 +1,9 @@
-
+import BackgroundImage from "./components/BackgroundImage";
+import WeatherCard from "./components/WeatherCard";
 const App = () => (
-  <h1>hello world</h1>
+  <BackgroundImage>
+    <WeatherCard />
+  </BackgroundImage>
 );
 
 export default App
