@@ -1,0 +1,194 @@
+[
+    {
+        "day": "Sunny",
+        "night": "Clear"
+    },
+    {
+        "day": "Partly cloudy",
+        "night": "Partly cloudy"
+    },
+    {
+        "day": "Cloudy",
+        "night": "Cloudy"
+    },
+    {
+        "day": "Overcast",
+        "night": "Overcast"
+    },
+    {
+        "day": "Mist",
+        "night": "Mist"
+    },
+    {
+        "day": "Patchy rain possible",
+        "night": "Patchy rain possible"
+    },
+    {
+        "day": "Patchy snow possible",
+        "night": "Patchy snow possible"
+    },
+    {
+        "day": "Patchy sleet possible",
+        "night": "Patchy sleet possible"
+    },
+    {
+        "day": "Patchy freezing drizzle possible",
+        "night": "Patchy freezing drizzle possible"
+    },
+    {
+        "day": "Thundery outbreaks possible",
+        "night": "Thundery outbreaks possible"
+    },
+    {
+        "day": "Blowing snow",
+        "night": "Blowing snow"
+    },
+    {
+        "day": "Blizzard",
+        "night": "Blizzard"
+    },
+    {
+        "day": "Fog",
+        "night": "Fog"
+    },
+    {
+        "day": "Freezing fog",
+        "night": "Freezing fog"
+    },
+    {
+        "day": "Patchy light drizzle",
+        "night": "Patchy light drizzle"
+    },
+    {
+        "day": "Light drizzle",
+        "night": "Light drizzle"
+    },
+    {
+        "day": "Freezing drizzle",
+        "night": "Freezing drizzle"
+    },
+    {
+        "day": "Heavy freezing drizzle",
+        "night": "Heavy freezing drizzle"
+    },
+    {
+        "day": "Patchy light rain",
+        "night": "Patchy light rain"
+    },
+    {
+        "day": "Light rain",
+        "night": "Light rain"
+    },
+    {
+        "day": "Moderate rain at times",
+        "night": "Moderate rain at times"
+    },
+    {
+        "day": "Moderate rain",
+        "night": "Moderate rain"
+    },
+    {
+        "day": "Heavy rain at times",
+        "night": "Heavy rain at times"
+    },
+    {
+        "day": "Heavy rain",
+        "night": "Heavy rain"
+    },
+    {
+        "day": "Light freezing rain",
+        "night": "Light freezing rain"
+    },
+    {
+        "day": "Moderate or heavy freezing rain",
+        "night": "Moderate or heavy freezing rain"
+    },
+    {
+        "day": "Light sleet",
+        "night": "Light sleet"
+    },
+    {
+        "day": "Moderate or heavy sleet",
+        "night": "Moderate or heavy sleet"
+    },
+    {
+        "day": "Patchy light snow",
+        "night": "Patchy light snow"
+    },
+    {
+        "day": "Light snow",
+        "night": "Light snow"
+    },
+    {
+        "day": "Patchy moderate snow",
+        "night": "Patchy moderate snow"
+    },
+    {
+        "day": "Moderate snow",
+        "night": "Moderate snow"
+    },
+    {
+        "day": "Patchy heavy snow",
+        "night": "Patchy heavy snow"
+    },
+    {
+        "day": "Heavy snow",
+        "night": "Heavy snow"
+    },
+    {
+        "day": "Ice pellets",
+        "night": "Ice pellets"
+    },
+    {
+        "day": "Light rain shower",
+        "night": "Light rain shower"
+    },
+    {
+        "day": "Moderate or heavy rain shower",
+        "night": "Moderate or heavy rain shower"
+    },
+    {
+        "day": "Torrential rain shower",
+        "night": "Torrential rain shower"
+    },
+    {
+        "day": "Light sleet showers",
+        "night": "Light sleet showers"
+    },
+    {
+        "day": "Moderate or heavy sleet showers",
+        "night": "Moderate or heavy sleet showers"
+    },
+    {
+        "day": "Light snow showers",
+        "night": "Light snow showers"
+    },
+    {
+        "day": "Moderate or heavy snow showers",
+        "night": "Moderate or heavy snow showers"
+    },
+    {
+        "day": "Light showers of ice pellets",
+        "night": "Light showers of ice pellets"
+    },
+    {
+        "day": "Moderate or heavy showers of ice pellets",
+        "night": "Moderate or heavy showers of ice pellets"
+    },
+    {
+        "day": "Patchy light rain with thunder",
+        "night": "Patchy light rain with thunder"
+    },
+    {
+        "day": "Moderate or heavy rain with thunder",
+        "night": "Moderate or heavy rain with thunder"
+    },
+    {
+        "day": "Patchy light snow with thunder",
+        "night": "Patchy light snow with thunder"
+    },
+    {
+        "day": "Moderate or heavy snow with thunder",
+        "night": "Moderate or heavy snow with thunder"
+    }
+]

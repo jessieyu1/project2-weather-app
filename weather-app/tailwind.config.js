@@ -9,6 +9,10 @@ module.exports = {
         'alimama': ['AlimamaFangYuanTiVF-Square', 'helvetica']
       }
     },
+    colors: {
+      sky: '#7dd3fc',
+      purple: '#3f3cbb'
+    }
   },
   plugins: [],
 }

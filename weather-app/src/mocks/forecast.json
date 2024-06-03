@@ -1,0 +1,18 @@
+{
+    "maxtemp_c": 15.6,
+    "mintemp_c": 12.2,
+    "avgtemp_c": 14.2,
+    "maxwind_mph": 28.6,
+    "maxwind_kph": 46.1,
+    "totalprecip_mm": 12.64,
+    "totalprecip_in": 0.5,
+    "avgvis_km": 9.7,
+    "avgvis_miles": 6,
+    "avghumidity": 71,
+    "condition": {
+      "text": "Moderate rain",
+      "icon": "//cdn.weatherapi.com/weather/64x64/day/302.png"
+    },
+    "uv": 2
+  }
+  

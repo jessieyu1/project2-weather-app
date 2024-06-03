@@ -1,12 +1,16 @@
 import React from 'react'
-import bg from '../../assets/bg.png'
-const BackgroundImage = () => {
-  return (
-    <div class="min-h-screen bg-cover flex items-center font-alimama"  >
-     <img src={bg} alt="cloud"/>
-    </div>
-  )
-}
+
+const BackgroundImage = ({
+  imageUrl,
+  alt = "Descriptive alt text",
+  children,
+  className,
+}) => (
+  <div className={className} >
+    <img src={imageUrl} alt={alt} className="absolute bottom-0 right-0" />{" "}
+    {/* For accessibility */}
+    {children}
+  </div>
+);
 
 export default BackgroundImage;
-
