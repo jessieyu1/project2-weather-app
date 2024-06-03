@@ -45,3 +45,10 @@ https://tailwindcss.com/
 
 rafce
 快速创建react component 
+
+API：
+https://www.weatherapi.com/
+https://app.swaggerhub.com/apis-docs/WeatherAPI.com/WeatherAPI/1.0.2#/
+
+Fetch:
+https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
